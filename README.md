@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Gian-P08/Gian-P08/main/Code%20setup.gif" width="1300" />
+  <img src="https://raw.githubusercontent.com/Gian-P08/Gian-P08/main/END%20DAY.gif" width="1300" />
 </p>
 
 ## Hi👋 Im Gian
