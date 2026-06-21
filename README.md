@@ -23,6 +23,6 @@ I'm especially interested in the intersection of software and finance, like quan
 Outside of code, I'm into math, soccer, and the occasional anime binge.
 
 ## Contact
-Feel Free to connect:)
+Feel free to connect:)
 
 [LinkedIn](https://linkedin.com/in/gian-pereira) • gianpereira25@gmail.com
