@@ -24,7 +24,7 @@ I'm a Computer Science / Business Administration (CS/BBA) double degree student 
 
 I'm especially interested in the intersection of software and finance, like quantitative trading and fintech, but I also just enjoy building cool, fun projects.
 
-Outside of code, I'm into math, soccer, and the occasional anime binge.
+Outside of code, I'm into math, soccer, badminton and the occasional anime binge.
 
 ## Contact
 Feel free to connect:)
