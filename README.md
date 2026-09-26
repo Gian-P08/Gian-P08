@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 -->
 ## About
 
-I'm an incoming Computer Science / Business Administration (CS/BBA) double degree student at the University of Waterloo, starting in Fall 2026.
+I'm a Computer Science / Business Administration (CS/BBA) double degree student at the University of Waterloo.
 
 I'm especially interested in the intersection of software and finance, like quantitative trading and fintech, but I also just enjoy building cool, fun projects.
 
